@@ -10,11 +10,11 @@ Este projeto consiste em uma **planilha Excel interativa** para gestão e acompa
 
 ### Funcionalidades
 
-- 📅 **Controle de aplicações por mês**
-- 📊 **Dashboard visual** com gráficos de melhores conjuntos de ativos por perfil
-- 📈 **Resumo automático** por tipo de investimento
-- 💸 **Lançamentos mensais** de aportes e rentabilidade
-- 📂 Organização por abas (APP e READ ME) para facilitar a navegação e atualização
+-  **Controle de aplicações por mês**
+-  **Dashboard visual** com gráficos de melhores conjuntos de ativos por perfil
+-  **Resumo automático** por tipo de investimento
+-  **Lançamentos mensais** de aportes e rentabilidade
+-  **Organização por abas** (APP e READ ME) para facilitar a navegação e atualização
 
 ### Estrutura do Arquivo
 
@@ -40,5 +40,5 @@ O arquivo contém as seguintes abas:
   <img src="https://github.com/user-attachments/assets/b56a7f53-215a-4533-a225-f2d450cc3bbf" width="600px" />
   </div>
 <div align>
-  <img src="https://github.com/user-attachments/assets/b671e291-0942-4c74-9729-480eb987a333" width="500px" />
+  <img src="https://github.com/user-attachments/assets/b671e291-0942-4c74-9729-480eb987a333" width="580px" />
   </div>
