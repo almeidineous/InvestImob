@@ -1,5 +1,5 @@
 ## InvestImob
-Projeto de App em Excel para auxilio em calculos de investimentos no segmento imobiliario e simulação de projeções a longo prazo. Projeto elaborado no BootCamp Santander - Excel com Inteligência Artificial, administrado pela DIO.
+Projeto em Excel para auxilio em calculos de investimentos no segmento imobiliario e simulação de projeções a longo prazo. Projeto elaborado no BootCamp Santander - Excel com Inteligência Artificial, administrado pela DIO.
 
 
 
@@ -10,7 +10,7 @@ Este projeto consiste em uma **planilha Excel interativa** para gestão e acompa
 
 ### Funcionalidades
 
--  **Controle de aplicações por mês**
+-  **Controle** de aplicações por mês
 -  **Dashboard visual** com gráficos de melhores conjuntos de ativos por perfil
 -  **Resumo automático** por tipo de investimento
 -  **Lançamentos mensais** de aportes e rentabilidade
