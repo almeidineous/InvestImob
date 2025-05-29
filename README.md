@@ -36,7 +36,4 @@ O arquivo contém as seguintes abas:
 
 ## 🖼️ Demonstração (prints)
 
-*Adicione aqui imagens da planilha/dash se desejar.*
-
-```markdown
-![Dashboard](./imagens/dashboard.png)
+![Image](https://github.com/user-attachments/assets/b56a7f53-215a-4533-a225-f2d450cc3bbf)
