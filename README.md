@@ -36,4 +36,6 @@ O arquivo contém as seguintes abas:
 
 ## 🖼️ Demonstração (prints)
 
-![Image](https://github.com/user-attachments/assets/b56a7f53-215a-4533-a225-f2d450cc3bbf)
+![Interfaçe Planilha](https://github.com/user-attachments/assets/b56a7f53-215a-4533-a225-f2d450cc3bbf)
+
+![Read me de instrução de uso](https://github.com/user-attachments/assets/b671e291-0942-4c74-9729-480eb987a333)
